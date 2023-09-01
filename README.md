@@ -4,11 +4,14 @@
 
 .
 
-![TailwindApp!](/images/one.png)
+![TailwindApp!](./img/one.png")
 
-![TailwindApp!](/images/two.png)
+![TailwindApp!](./img/two.png")
 
-![TailwindApp!](/frontend/public/images/three.png)
+![TailwindApp!](./img/three.png")
+
+![TailwindApp!](./img/screen.png")
+
 
 ## 2. Description
 
