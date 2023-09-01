@@ -2,15 +2,15 @@
 
 ## 1. Preview
 
-.
 
-![TailwindApp!](../img/one.png")
 
-![TailwindApp!](./img/two.png")
+![TailwindApp!](./img/one.png)
 
-![TailwindApp!](./img/three.png")
+![TailwindApp!](./img/two.png)
 
-![TailwindApp!](./img/screen.png")
+![TailwindApp!](./img/three.png)
+
+![TailwindApp!](./img/screen.png)
 
 
 ## 2. Description
