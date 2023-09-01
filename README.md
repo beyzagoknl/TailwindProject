@@ -4,7 +4,7 @@
 
 .
 
-![TailwindApp!](./img/one.png")
+![TailwindApp!](../img/one.png")
 
 ![TailwindApp!](./img/two.png")
 
